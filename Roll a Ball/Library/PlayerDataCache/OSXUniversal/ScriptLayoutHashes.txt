@@ -1,6 +1,6 @@
 OSXStandalone
 PlayerPath?
-/Users/pkwak/Documents/gitrepos/Roll-A-Ball-Extreme/Roll a Ball Extreme Build 0.0.1.app
+/Users/pkwak/Documents/gitrepos/Roll-A-Ball-Extreme/Roll a Ball/Builds/Roll a Ball Extreme Build 0.0.2.app
 SceneListBegin?
 Assets/_Scenes/MiniGame.unity
 SceneListEnd?
